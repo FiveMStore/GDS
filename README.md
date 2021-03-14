@@ -51,7 +51,7 @@ Currently we do not accept pull requests. Want to help us improving the antichea
 
 ### Credits
 **RedFighter#0447** for bringing me on the idea to work on a public anticheat.
-**Everyone** else that left a feedback to improve the anticheat.
+<br>**Everyone** else that left a feedback to improve the anticheat.
 
 ### Video?
 Ahh, I don't really like the video since it's very simple. If you really want a video let me know, but please if I add it doesn't blame the bad editing, I just don't have enough time to go crazy. :sweat_smile:
