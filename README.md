@@ -1,5 +1,5 @@
-# GDS
-Introducing **Guardian Defence System**, a cheap lightweight anticheat. GDS is here to make a difference, there's no need to make things very expensive if they are very rare to find. We want to help other servers to protect their server against the newest cheats available right now.
+# Guardian Defence System
+Introducing **Guardian Defence System**, a cheap lightweight FiveM anticheat. GDS is here to make a difference, there's no need to make things very expensive if they are very rare to find. We want to help other servers to protect their server against the newest cheats available right now.
 
 We ask a little amount to keep our services running including the GDS AntiCheat. Therefore we also kindly ask you to give feedback about the anticheat so that we can improve the anticheat. Since GDS isn't really known yet we would like to share it on GitHub for the people who are looking for an affordable solution.
 
